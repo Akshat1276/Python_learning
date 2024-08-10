@@ -1,9 +1,6 @@
-x = "awesome"
+def myFunc(x):
+    print("Hello", x)
 
-def myfunc():
-  global x
-  x = "fantastic"
+myFunc("Rahul")
 
-myfunc()
-
-print("Python is " + x)
+# Note: using " global" keyword, you can convert a local variable into a global one
