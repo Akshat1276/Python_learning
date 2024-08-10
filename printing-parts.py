@@ -1,2 +1,2 @@
 a = "Helicopter"
-print(a[2])
+print(a.split("i"))
