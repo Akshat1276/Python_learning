@@ -9,5 +9,7 @@ def convertor(second):
     # b = math.floor(minute)
     print("The given seconds correspond to....   ", math.floor(hour), " hours  ", math.floor(minute)," minutes  ", math.floor(sec), " seconds")
 
-x = int(input("Enter the Seconds:  "))
-convertor(x)
+# x = int(input("Enter the Seconds:  "))
+# convertor(x)
+
+convertor(7400)
