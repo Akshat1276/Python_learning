@@ -4,4 +4,4 @@ pi=3.14
 r=circum/(2*pi)
 area=pi*(r**2)
 print("radius of this circle is:",r)
-print("area of this circle is:",area)
+print("area of this circle is:",circum) 
